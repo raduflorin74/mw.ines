@@ -1,12 +1,11 @@
 {
-    "login": {
-            "username" : "fradu",
-            "id" : 1,
-            "name" : "Radu"
-            },
-    "client" : {
-            "nume" : "radu",
-            "prenume" : "florin",
-            "tip" : 1
-            }
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
     }
+  }
