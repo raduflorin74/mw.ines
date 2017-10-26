@@ -1,7 +1,11 @@
 {
-"login": {
-        "username" : "fradu",
-        "id" : 1,
-        "name" : "Radu"
-        }
-}
+    "login": {
+            "username" : "fradu",
+            "id" : 1,
+            "name" : "Radu"
+            },
+    "client" : {
+            "nume" : "radu",
+            "prenume" : "florin",
+            "tip" : 1
+    }
