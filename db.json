@@ -7,5 +7,10 @@
     ],
     "profile": {
       "name": "typicode"
+    },
+    "user" : {
+        "username" : "fradu",
+        "id" : 111,
+        "name" : "florin"
     }
   }
